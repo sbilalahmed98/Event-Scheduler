@@ -1,0 +1,1 @@
+// migration for bookings table

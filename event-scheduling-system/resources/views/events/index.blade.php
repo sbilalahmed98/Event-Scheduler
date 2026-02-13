@@ -1,0 +1,1 @@
+<h1>Event Listings</h1>@foreach($events as $event)<p>{{ $event->name }} - {{ $event->date }}</p>@endforeach
